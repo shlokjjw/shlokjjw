@@ -1,4 +1,4 @@
-### Heyy There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+###[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Heyy+Coders+!;I+am+Shlok)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **shlokjjw/shlokjjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
