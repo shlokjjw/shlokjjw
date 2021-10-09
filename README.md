@@ -3,8 +3,7 @@
 <h1 align="center">I'm Shlok Jhunjhunwala</h1>
 <h2 align="center">A passionate full stack developer developer & AI enthusiast from India</h2>
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Controlling+Complexity+is+the+essence+of+programming;)]
-Here are some ideas to get you started:
+<h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Controlling+Complexity+is+the+essence+of+programming;)]</h2>
 
 - 🔭 I’m currently learning competitive programming and DSA. 
 - 🌱 I’m currently learning Machine Learning & Deep Learning
