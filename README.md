@@ -22,12 +22,12 @@
 <details>
   <summary>💻 GitHub Profile Stats</summary>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=shlokjjw&label=Profile%20views&color=0e75b6&style=flat" alt="shlokjjw" /> </p>
-    <a align="center"><img alt="Shlok Jhunjhunwala's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shlokjjw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px" align="left"/></a>
+  <p align="left"><a align="center"><img alt="Shlok Jhunjhunwala's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shlokjjw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px" align="left"/></a></p>
    
-  <a align="center"><img alt="Shlok Jhunjhunwala's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokjjw&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="150px"/></a>
+  <p align="center"><a><img alt="Shlok Jhunjhunwala's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokjjw&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="150px"/></a></p>
   <br/>
 <!--  activity graph   -->
-   <a align="center"><img alt="Shlok Jhunjhunwala's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shlokjjw&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="250px"/></a>
+   <p align="center"><a align="center"><img alt="Shlok Jhunjhunwala's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shlokjjw&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="250px"/></a></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlokjjw&row=1&column=6&theme=flat&margin-w=5" alt="Shlok Jhunjhunwala" /></a> </p>
 
