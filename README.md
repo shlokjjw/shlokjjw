@@ -28,5 +28,6 @@
 <!--  activity graph   -->
    <a align="center"><img alt="Shlok Jhunjhunwala's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shlokjjw&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="250px"/></a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlokjjw" alt="shlokjjw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlokjjw&row=1&column=6&theme=flat&margin-w=5" alt="Shlok Jhunjhunwala" /></a> </p>
+
 </details>
