@@ -7,7 +7,7 @@
 - 💬 Ask me about anything. I will be 😃 to help you 
 - 📫 How to reach me **shlokjjw@gmail.com**
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
-<img src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" align="right" alt="coding is my passion"></img>
+<img src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e470s6x4ms6pth0bvkf0935i27rqzlrqsug7coxktav&rid=giphy.gif&ct=g" width="480" height="480" align="right" alt="coding is my passion"></img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shlokjjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shlokjjw" height="30" width="40" /></a>
