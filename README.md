@@ -1,16 +1,16 @@
 <h1 align="center">Heyy Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Shlok Jhunjhunwala</h1>
 <h2 align="center">A passionate full stack developer developer & AI enthusiast from India</h2>
-
-
+<img src="https://c.tenor.com/swkJYSIq89YAAAAi/man-technologist-people.gif" width="150" height="150" align="right" alt="coding is my passion"></img>
+<align="left">
 - 🔭 I’m currently learning competitive programming and DSA. 
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 - 👯 I’m looking to collaborate on AI and Web based project
 - 💬 Ask me about anything. I will be 😃 to help you 
 - 📫 How to reach me **shlokjjw@gmail.com**
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
-
+</align>
 <h3 align="left">Connect with me:</h3>
-<img src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b761140a2b1c26fd282c988e7c7098fcad6147d12e4b8&rid=giphy.gif&ct=g" width="200" height="200" align="right" alt="coding is my passion"></img>
+<img src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b761140a2b1c26fd282c988e7c7098fcad6147d12e4b8&rid=giphy.gif&ct=g" width="150" height="150" align="right" alt="coding is my passion"></img>
 <p align="left">
 <a href="https://twitter.com/shlokjjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shlokjjw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shlokjjw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shlokjjw/" height="30" width="40" /></a>
