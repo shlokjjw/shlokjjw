@@ -6,8 +6,8 @@
 <p>- 🌱 I’m currently learning Machine Learning & Deep Learning</p>
 <p>- 👯 I’m looking to collaborate on AI and Web based project</p>
 <p>- 💬 Ask me about anything. I will be 😃 to help you </p>
-<p>- 📫 How to reach me **shlokjjw@gmail.com**</p>
-<p>- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
+<p>- 📫 How to reach me <a href="shlokjjw@gmail.com">Shlok Jhunjhunwala</a></p>
+<p>- ⚡ Fun fact <b>The first computer “bug” was an actual real-life bug</b>
 </p>
 <h3 align="left">Connect with me:</h3>
 <img src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b761140a2b1c26fd282c988e7c7098fcad6147d12e4b8&rid=giphy.gif&ct=g" width="150" height="150" align="right" alt="coding is my passion"></img>
