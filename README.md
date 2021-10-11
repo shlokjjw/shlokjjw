@@ -1,14 +1,14 @@
 <h1 align="center">Heyy Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Shlok Jhunjhunwala</h1>
 <h2 align="center">A passionate full stack developer developer & AI enthusiast from India</h2>
 
-<h3 align="left">
+
 - 🔭 I’m currently learning competitive programming and DSA. 
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 - 👯 I’m looking to collaborate on AI and Web based project
 - 💬 Ask me about anything. I will be 😃 to help you 
 - 📫 How to reach me **shlokjjw@gmail.com**
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
-</h3>
+
 <h3 align="left">Connect with me:</h3>
 <img src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b761140a2b1c26fd282c988e7c7098fcad6147d12e4b8&rid=giphy.gif&ct=g" width="200" height="200" align="right" alt="coding is my passion"></img>
 <p align="left">
