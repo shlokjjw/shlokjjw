@@ -10,7 +10,7 @@
 <p>- ⚡ Fun fact <b>The first computer “bug” was an actual real-life bug</b>
 </p>
 <h3 align="left">Connect with me:</h3>
-<img src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b761140a2b1c26fd282c988e7c7098fcad6147d12e4b8&rid=giphy.gif&ct=g" width="150" height="150" align="right" alt="coding is my passion"></img>
+
 <p align="left">
 <a href="https://twitter.com/shlokjjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shlokjjw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shlokjjw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shlokjjw/" height="30" width="40" /></a>
