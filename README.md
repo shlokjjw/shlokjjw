@@ -6,14 +6,14 @@
 <p>- 🌱 I’m currently learning Machine Learning & Deep Learning</p>
 <p>- 👯 I’m looking to collaborate on AI and Web based project</p>
 <p>- 💬 Ask me about anything. I will be 😃 to help you </p>
-<p>- 📫 How to reach me: <a href="mailto:shlokjjw@gmail.com">Shlok Jhunjhunwala</a></p>
+<p>- 📫 How to reach me: </p>How to reach me: message me on <a href="https://www.linkedin.com/in/shlokjjw/">Linkedin</a> or drop a <a href="mailto:shlokjjw@gmail.com">mail</a> here
 <p>- ⚡ Fun fact <b>The first computer “bug” was an actual real-life bug</b>
 </p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/shlokjjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shlokjjw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shlokjjw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shlokjjw/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shlokjjw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shlokjjw/" height="30" width="40" /></a>
 <a href="https://join.slack.com/t/shlokjhunjhunwala/shared_invite/zt-x15nuoqc-FvVHWn5J397T8b5Hm_lNDA" target="blank"><img align="center" src="https://thumbs.bfldr.com/at/pl546j-7le8zk-6gwiyo/v/2925175?expiry=1634381907&fit=bounds&height=800&sig=YzI1Y2E4OWJmZjIyZGU5ZjA3ODIwNTJjZTVjMzllZDU3ZjAwZDc3Nw%3D%3D&width=1100" alt="Shlok Jhunjhunwala Slack" height="30" width="40"/></a>
 <a href="https://discord.gg/nuJHt2a5" target="blank"><img align="center" src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" alt="Shlok Jhunjhunwala" height="30" width="40" /></a>
 </p>
