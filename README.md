@@ -1,6 +1,6 @@
-<h1 align="center">Heyy Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Shlok Jhunjhunwala</h1>
+<h1 align="center">Heyy Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">  I'm Shlok Jhunjhunwala</h1>
 <h2 align="center">A passionate full stack developer developer & AI enthusiast from India</h2>
-<img src="https://c.tenor.com/swkJYSIq89YAAAAi/man-technologist-people.gif" width="40px" height="40px" align="right" alt="coding is my passion"></img>
+<img src="https://c.tenor.com/swkJYSIq89YAAAAi/man-technologist-people.gif" width="400" height="400" align="right" alt="coding is my passion"></img>
 <p align="left">
 - 🔭 I’m currently learning competitive programming and DSA. </p>
 <p>- 🌱 I’m currently learning Machine Learning & Deep Learning</p>
